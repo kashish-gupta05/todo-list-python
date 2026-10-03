@@ -33,3 +33,6 @@ A simple Python To-Do List application.
 2. View Tasks
 3. Remove Task
 4. Exit
+## 👩‍💻 Author
+
+Kashish Gupta
